@@ -40,8 +40,12 @@
 
 > Add your actual terminal screenshot here:<img width="727" height="362" alt="Screenshot 2026-08-12 104207" src="https://github.com/user-attachments/assets/ae8d6603-caa3-4d70-9d46-899b1fbbb9f7" />
 
-```markdown
-## demo video
+
+## video demostration
+
+### project demo
+[click below link for demo video]
+
 (https://github.com/ShivaSonkar06/python/blob/main/2026-08-12%2012-47-15.mp4)
 
 ```
