@@ -38,7 +38,9 @@
 > Add your actual terminal screenshot here:
 
 ```markdown
-![Program Screenshot](https://github.com/ShivaSonkar06/python/blob/main/Screenshot%202026-08-12%20104207.png)
+![Program Screenshot]
+
+
 ```
 
 ### 📂 Recommended Project Structure
