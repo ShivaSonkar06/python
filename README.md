@@ -32,6 +32,7 @@
 - 📚 Python built-in functions: `input()`, `int()`, `float()`, `type()`, `id()`
 
 ## 📸 Screenshots
+(https://github.com/ShivaSonkar06/python/blob/main/Screenshot%202026-08-12%20104207.png)
 
 ### 🖥️ Program Preview
 
