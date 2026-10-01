@@ -1,0 +1,198 @@
+# 👨‍💼 Employee Management System
+
+> 🐍 A simple **Python OOP Project** for managing Persons, Employees,
+> and Managers.
+
+------------------------------------------------------------------------
+
+## 🌟 Project Overview
+
+This project is a beginner-friendly **Employee Management System**
+created using **Object-Oriented Programming (OOP) in Python**.
+
+### ✨ What can you do?
+
+-   👤 Create a Person
+-   👨‍💼 Create an Employee
+-   👨‍💻 Create a Manager
+-   📋 Show Details
+-   🚪 Exit the program
+
+The project uses `Person`, `Employee`, and `Manager` classes with
+inheritance.
+
+------------------------------------------------------------------------
+
+## 🛠️ Technologies Used
+
+  Technology       Purpose
+  ---------------- -----------------------------
+  🐍 Python        Programming Language
+  🧩 OOP           Project Structure
+  🔗 Inheritance   Person → Employee → Manager
+  💻 Console       User Interaction
+
+------------------------------------------------------------------------
+
+## 📌 Features
+
+### 1️⃣ Create a Person
+
+Enter: - 👤 Name - 🎂 Age
+
+### 2️⃣ Create an Employee
+
+Enter: - 👤 Name - 🎂 Age - 🆔 Employee ID - 💰 Salary
+
+### 3️⃣ Create a Manager
+
+Enter: - 👤 Name - 🎂 Age - 🆔 Employee ID - 💰 Salary - 🏢 Department
+
+### 4️⃣ Show Details
+
+Displays the saved Person, Employee, and Manager details.
+
+### 5️⃣ Exit
+
+Closes the Employee Management System. 🚪
+
+------------------------------------------------------------------------
+
+## 🧠 OOP Concepts Used
+
+### 👤 Person Class
+
+Stores **name** and **age** and includes a method to show details.
+
+### 👨‍💼 Employee Class
+
+Inherits from `Person` and adds: - 🆔 Employee ID - 💰 Salary
+
+### 👨‍💻 Manager Class
+
+Inherits from `Employee` and adds: - 🏢 Department
+
+### 🔗 Inheritance Structure
+
+``` text
+Person
+  │
+  ▼
+Employee
+  │
+  ▼
+Manager
+```
+
+------------------------------------------------------------------------
+
+## ▶️ How to Run
+
+### Step 1️⃣
+
+Make sure Python is installed.
+
+### Step 2️⃣
+
+Open the project folder in VS Code.
+
+### Step 3️⃣
+
+Run the Python file:
+
+``` bash
+python "oop wrapper.py"
+```
+
+### Step 4️⃣
+
+Choose an option from the menu and enter the required details. 🎯
+
+------------------------------------------------------------------------
+
+## 📸 Screenshots
+
+> 🖼️ **Upload your screenshots in the `screenshots` folder and add them
+> here.**
+
+### 💻 Main Menu
+
+``` markdown
+![Main Menu Screenshot](screenshots/main-menu.png)
+```
+
+### 👤 Person Created
+
+``` markdown
+![Person Created Screenshot](screenshots/person-created.png)
+```
+
+### 👨‍💼 Employee / Manager Details
+
+``` markdown
+![Employee Manager Screenshot](screenshots/employee-manager-details.png)
+```
+
+### 📁 Screenshot Folder Structure
+
+``` text
+Employee-Management-System/
+│
+├── oop wrapper.py
+├── README.md
+│
+└── screenshots/
+    ├── main-menu.png
+    ├── person-created.png
+    └── employee-manager-details.png
+```
+
+------------------------------------------------------------------------
+
+## 🎮 Menu Options
+
+``` text
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+```
+
+------------------------------------------------------------------------
+
+## 📚 What I Learned
+
+-   🧱 Creating classes
+-   🏗️ Creating objects
+-   🔗 Inheritance
+-   🔄 Using methods
+-   📦 Storing objects in a list
+-   ⌨️ Taking user input
+-   🔁 Using loops and conditions
+
+------------------------------------------------------------------------
+
+
+ screenshots/
+ <img width="747" height="901" alt="Screenshot 2026-10-01 120915" src="https://github.com/user-attachments/assets/d2ef27a5-b834-4f5a-94ed-126dbbc9a718" />
+ <img width="812" height="915" alt="Screenshot 2026-10-01 120934" src="https://github.com/user-attachments/assets/e8e088b4-e191-48f5-ad92-c91dfbc892fc" />
+ <img width="782" height="587" alt="Screenshot 2026-10-01 120949" src="https://github.com/user-attachments/assets/da21d32c-7cd7-4843-95a0-3f605e6eeafb" />
+
+------------------------------------------------------------------------
+Demo video/
+
+
+
+   
+------------------------------------------------------------------------
+
+## 👨‍💻 Project Information
+
+**Project Name:** Employee Management System\
+**Language:** Python 🐍\
+**Type:** OOP Console Project 💻
+
+------------------------------------------------------------------------
+
+⭐ **Made with Python & OOP** 🐍💙
