@@ -116,31 +116,20 @@ Personal-Journal-Manager/
 
 > 🖼️ Add your project screenshots in the `screenshots` folder.
 
-### 🏠 Main Menu
+<img width="1035" height="920" alt="Screenshot 2026-10-02 121001" src="https://github.com/user-attachments/assets/e9ea0d72-dc79-476c-a871-67bcab0e2f72" />
+<img width="556" height="392" alt="Screenshot 2026-10-02 121717" src="https://github.com/user-attachments/assets/dd48e5f0-5399-4605-aeb3-f95a1e6651b9" />
 
-```markdown
-![Main Menu](screenshots/main-menu.png)
-```
-
-### ✍️ Add New Entry
-
-```markdown
-![Add New Entry](screenshots/add-entry.png)
-```
-
-### 📖 View Entries
-
-```markdown
-![View Entries](screenshots/view-entries.png)
-```
-
-### 🔍 Search Entry
-
-```markdown
-![Search Entry](screenshots/search-entry.png)
-```
 
 ---
+Demo video
+
+
+https://github.com/user-attachments/assets/41929eec-f7dd-471b-b0bf-5a17d0838efe
+
+
+
+
+
 
 ## 📚 Learning Outcome
 
